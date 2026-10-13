@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+terraform.tfstate
+terraform.tfstate.*
+.terraform/
+node_modules/
